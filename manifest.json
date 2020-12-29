@@ -20,11 +20,4 @@
   "display": "standalone",
   "scope": "/",
   "theme_color": "#319cf0",
-  "shortcuts": [
-    {
-      "name": "Time Table - Online Corner",
-      "short_name": "Time Table",
-      "description": "This is a Time Table with zoom links embedded.",
-      "url": "https://onlinecornerti.blogspot.com",
-      "icons": [{ "src": "https://lavantechtamil.files.wordpress.com/2020/12/1608957974051.png", "sizes": "192x192" }]
-    }
+}
